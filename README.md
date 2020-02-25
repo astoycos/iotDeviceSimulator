@@ -7,6 +7,6 @@ The stream can be chosen from any youtube livestream link via an environment var
 
 ## Prereqs
 
-This module uses the `youtube-dl` library so it must be installed first with the installation instructions from the [folling link](https://ytdl-org.github.io/youtube-dl/download.html) 
+This module uses the `youtube-dl` library so it must be installed first with the installation instructions from the [following link](https://ytdl-org.github.io/youtube-dl/download.html) 
 
 STILL IN PRODUCTION 
